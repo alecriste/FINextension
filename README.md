@@ -1,2 +1,2 @@
 # FINextension
-provides financial news readers with relevant data analysis 
+financial news fact check and relevant data analysis 
